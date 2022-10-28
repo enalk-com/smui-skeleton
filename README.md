@@ -1,6 +1,6 @@
 # A Skeleton SMUI Template for new projects
 
-1. Clone this repo
+1. Clone or [degit](https://github.com/Rich-Harris/degit) this repo
 2. Then
 
 ```bash
